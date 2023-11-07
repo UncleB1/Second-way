@@ -1,0 +1,50 @@
+.bstyle{
+  color: black;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top:15px;
+  padding-bottom: 15px;
+  border-radius: 25px;
+  margin-left: 20px;
+  border: none;
+  font-weight: bolder;
+  box-shadow: 15px 15px 15px 0px ;
+  transition: 3s;
+}
+  
+.bgreen{
+  background-color: greenyellow;
+}
+.bblue{
+  background-color: rgb(160, 220, 244);
+}
+.bgray{
+  background-color: rgb(220, 213, 213);
+}
+
+.bsin:hover:hover{
+  background-color:rgb(206, 136, 136) ;
+}
+
+.bsin:active{
+  opacity:0.5;
+}
+
+
+.blog:hover:hover{
+  background-color:rgb(186, 206, 136) ;
+}
+
+.blog:active{
+  opacity:0.5;
+}
+
+
+.bpic:hover:hover{
+  background-color:rgb(136, 204, 206) ;
+}
+
+.bpic:active{
+  opacity:0.5;
+}
+
