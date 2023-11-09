@@ -9,27 +9,34 @@
   border: none;
   font-weight: bolder;
   box-shadow: 15px 15px 15px 0px ;
-  transition: 3s;
 }
   
 .bgreen{
   background-color: greenyellow;
 }
+
 .bblue{
   background-color: rgb(160, 220, 244);
+
 }
 .bgray{
   background-color: rgb(220, 213, 213);
 }
 
-.bsin:hover:hover{
-  background-color:rgb(206, 136, 136) ;
+.bsin:hover{
+  background-color:rgb(206, 136, 136);
 }
 
 .bsin:active{
   opacity:0.5;
 }
 
+.blog:hover{
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-left: 36px;
+  padding-right: 36px;
+}
 
 .blog:hover:hover{
   background-color:rgb(186, 206, 136) ;
@@ -40,11 +47,14 @@
 }
 
 
-.bpic:hover:hover{
+.bpic:hover{
   background-color:rgb(136, 204, 206) ;
 }
 
-.bpic:active{
-  opacity:0.5;
+.bpic:active {
+  margin-top: 3px;
+  margin-left: 3px;
+  box-shadow: none;
 }
+
 
