@@ -9,6 +9,7 @@
   border: none;
   font-weight: bolder;
   box-shadow: 15px 15px 15px 0px ;
+  transition: 1s;
 }
   
 .bgreen{
